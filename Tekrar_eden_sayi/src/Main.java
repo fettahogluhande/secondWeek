@@ -1,5 +1,5 @@
 public class Main {
-  
+
     static boolean isFind(int[] arr, int value) {
 
         for (int i : arr) {
